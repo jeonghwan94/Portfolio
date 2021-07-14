@@ -12,7 +12,7 @@
   - 주관처 : 패스트캠퍼스
   - 기간 : 2021.03.08 ~ 2021.06.06
   - 교육 내용
-    - '링크' 참고 
+    - (https://github.com/jeonghwan94/Education/tree/Data-Scientist/%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4) 참고
 
 - 과정명 : Deep Learning 심화 과정
   - 주관처: Coursera
