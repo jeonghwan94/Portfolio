@@ -18,7 +18,7 @@
   - 주관처: Coursera
   - 기간 : 2021.01.01 ~ 2021.06.23
   - 교육 내용
-    - 
+    - (https://github.com/jeonghwan94/Education/tree/Data-Scientist/Coursera) 참고
 
 - 과정명 : 비대면 5G AI 영상보안 K-Digital 훈련 국비 과정
   - 주관처 : 한국 IT 교육원
