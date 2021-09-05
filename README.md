@@ -6,7 +6,7 @@
 - 2021.06 학점은행제 컴퓨터공학(수료중)
 
 ## 교육사항
-- 과정명 : [[뉴딜일자리]비대면 5G AI 영상보안반](https://github.com/jeonghwan94/Education/tree/Data-Scientist/%EC%97%98%EB%A6%AC%EC%8A%A4#readme)
+- 과정명 : [[뉴딜일자리]비대면 서비스 5G_AI 영상보안](https://github.com/jeonghwan94/Education/tree/Data-Scientist/%EC%97%98%EB%A6%AC%EC%8A%A4#readme)
   - 주관처 : 한국 IT 교육원
   - 기간 : 2021.03 ~
   - 교육내용
