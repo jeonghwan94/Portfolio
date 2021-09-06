@@ -1,4 +1,4 @@
-# Project
+# Profile
 
 ## 학력
 
