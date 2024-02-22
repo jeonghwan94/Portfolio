@@ -3,7 +3,6 @@
 ## 학력
 
 - 2013.02 삼척마이스터고 졸업
-- 2021.06 학점은행제 컴퓨터공학(수료중)
 
 ## 교육사항
 - 과정명 : [[뉴딜일자리]비대면 서비스 5G_AI 영상보안](https://github.com/jeonghwan94/Education/tree/Data-Scientist/%EA%B5%AD%EB%B9%84%EA%B5%90%EC%9C%A1#readme)
